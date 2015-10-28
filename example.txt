@@ -1,5 +1,6 @@
 master
 Some more text!!!
 f1 
+<<<<<<< HEAD
 change to create chaos
-change that will break rebase
+change that will break rebase - and it did
